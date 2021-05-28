@@ -1,0 +1,7 @@
+# ignorar carpetas
+
+ /imagen/borrar
+ 
+ # ignorar archivos
+ 
+ WIN_20210509_21_35_07_Pro.jpg
